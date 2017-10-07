@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediaOnline</string>
+    <string name="mp.music.default_duration">00:00</string>
+</resources>

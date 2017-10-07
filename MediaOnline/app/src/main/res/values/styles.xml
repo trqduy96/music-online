@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+    <style name="mycolor">
+        <item name="colorAccent">#FFFFFFFF</item>
+    </style>
+    <style name="MP.Theme.TextAppearance.Light.Toolbar.Title" parent="MP.Theme.TextAppearance.Toolbar">
+        <item name="android:textColor">@color/mp.theme.dark_blue.colorAccent</item>
+    </style>
+
+
+    <style name="MP.Theme" parent="AppTheme"/>
+
+
+    <style name="MP.Theme.TextAppearance.Toolbar">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="MP.Theme.TextAppearance">
+
+    </style>
+
+
+    <color name="white">#FFFFFFFF</color>
+</resources>
